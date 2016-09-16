@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Slawek tt@o2.pl
 
 # THANKS
 
