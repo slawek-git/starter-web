@@ -4,6 +4,7 @@
 # TEAM
 
     Slawek tt@o2.pl
+	branch stash
 
 # THANKS
 
