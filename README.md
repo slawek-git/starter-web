@@ -9,6 +9,6 @@ Sample website with plenty of files for demos
 
 Please fork for this repository and then issue Pull Requests for a review
 
-##  Copyright
+##  Copyright. 
 
-2014
+2014. All rights reserved
